@@ -1,0 +1,6 @@
+# These are the required libraries that are not included in the bin folder.
+# To install these, ensure you have pip installed and run the following:
+# pip install -r requirements.txt
+
+PySimpleGUI >= 4.28.0
+requestium >= 0.1.9
