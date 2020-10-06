@@ -1,0 +1,2 @@
+To  change the theme open
+autoform and change the theme in last line with the codes in the images attached.
